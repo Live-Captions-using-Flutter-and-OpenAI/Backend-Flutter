@@ -4,17 +4,21 @@ Backend for Flutter application to generate the subtitled video.
 Create a new python Environment to backend
 
 Creating Python virtualenv in Windows
+
 1) Install virtualenv using
 
  > pip install virtualenv 
+
 2)Now in which ever directory you are, this line below will create a virtualenv there
 
  > virtualenv myenv
+
 And here also you can name it anything.
 
 3) Now if you are same directory then type,
 
  > myenv\Scripts\activate
+
 You can explicitly specify your path too.
 
 4) deactivate it like
