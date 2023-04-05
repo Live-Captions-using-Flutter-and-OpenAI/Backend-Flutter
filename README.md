@@ -46,3 +46,8 @@ Download any one of the following and add a path in the environment variables
 
 Install all the required packages to run the model.py and api.py.
 
+
+![image](https://user-images.githubusercontent.com/87652402/230158664-6a941284-34c2-4eb0-964b-b1deb9fd2576.png)
+
+serviceAccountKey.json is downloaded from the Firebase storage to access the files in it.
+
